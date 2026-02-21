@@ -1,4 +1,4 @@
-class Test
+class Day6s
 {
     public static void main(String[] args) {
         byte[] x=new byte[3];

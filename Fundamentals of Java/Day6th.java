@@ -1,4 +1,5 @@
-class Test{
+class Day6th
+{
     public static void main(String[] args)
      {
         System.out.println(args.length);

@@ -1,8 +1,7 @@
-class Day7s
+class Day8s
 {
     public static void main(String[] args) {
-        int[] x= new int[3];
+        int[] x={10,20,30};
         System.out.println(x);
-        System.out.println(x[0]);
     }
 }

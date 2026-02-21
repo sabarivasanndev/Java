@@ -1,4 +1,4 @@
-class Test
+class Day2f
 {
    public static void main(String[] args) 
    {
