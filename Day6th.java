@@ -2,6 +2,7 @@ class Day6th
 {
     public static void main(String[] args)
      {
-        System.out.println(args.length);
+      int[] x=new int[10];
+        System.out.println(x.length);
      }
 }
