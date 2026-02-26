@@ -1,4 +1,4 @@
-class Day8s
+class Day8ss
 {
     public static void main(String[] args) {
         int[][] x={{10,20},{10,20,30}};
